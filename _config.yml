@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Yoonho Hwang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profil.jpg"
   bio              : "VISLAB student in kyungpook national university"
   location         : "Daegu, Korea"
   email            : "ghkddbsgh99@knu.ac.kr"
