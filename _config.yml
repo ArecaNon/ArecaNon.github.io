@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ghkddbsgh99@knu.ac.kr"
+      # url: "mailto:ghkddbsgh99@knu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://arecanon.github.io/"
