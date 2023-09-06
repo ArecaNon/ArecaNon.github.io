@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "kr-KR"
 title                    : "경북대학교 VISLAB 연구생 공부일지"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
